@@ -1,0 +1,16 @@
+com\zidioconnect\repository\JobRepository.class
+com\zidioconnect\model\User.class
+com\zidioconnect\service\JobService.class
+com\zidioconnect\repository\UserRepository.class
+com\zidioconnect\model\Internship.class
+com\zidioconnect\model\Application.class
+com\zidioconnect\repository\ApplicationRepository.class
+com\zidioconnect\controller\InternshipController.class
+com\zidioconnect\service\ApplicationService.class
+com\zidioconnect\service\UserService.class
+com\zidioconnect\model\Job.class
+com\zidioconnect\controller\UserController.class
+com\zidioconnect\repository\InternshipRepository.class
+com\zidioconnect\controller\JobController.class
+com\zidioconnect\controller\ApplicationController.class
+com\zidioconnect\ZidioConnectApplication.class
